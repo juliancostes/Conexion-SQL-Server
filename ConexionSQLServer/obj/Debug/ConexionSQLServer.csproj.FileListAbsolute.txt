@@ -1,0 +1,56 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Form1.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.GenerateResource.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.pdb
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe.config
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.pdb
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csprojAssemblyReference.cache
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Form1.resources
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Properties.Resources.resources
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.exe
+C:\Users\eduar\Desktop\PRGs\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.pdb
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe.config
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.pdb
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Form1.resources
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Properties.Resources.resources
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.exe
+C:\Users\eduar\OneDrive\Escritorio\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.exe.config
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Form1.resources
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.Properties.Resources.resources
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.GenerateResource.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.exe
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe.config
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.exe
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\MySql.Data.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\Google.Protobuf.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\Zstandard.Net.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\BouncyCastle.Crypto.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\Ubiety.Dns.Core.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\Renci.SshNet.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\System.Memory.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\System.Buffers.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\K4os.Compression.LZ4.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\K4os.Hash.xxHash.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\bin\Debug\MySql.Data.xml
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\ConexionSQLServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csproj.CopyComplete
